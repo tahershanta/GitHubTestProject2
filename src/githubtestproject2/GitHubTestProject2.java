@@ -16,8 +16,9 @@ public class GitHubTestProject2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+
         System,out.println("This is the second project to test using GitHub!");
+        System.out.println("This is another line added.");
     }
-    
+
 }
